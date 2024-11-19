@@ -1,4 +1,3 @@
-# nba
 # Databases - NBA Database Design and Implementation
 
 This repository contains the deliverables for **Challenge 1** of the Databases course. The project focuses on designing and implementing a database to manage the operations of the **NBA** effectively.
